@@ -805,14 +805,3 @@ ul {
         display: none;
     }
 }
-.gallery {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 8px;
-}
-
-.gallery img {
-  width: 200px;
-  height: auto;
-  cursor: pointer;
-}
